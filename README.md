@@ -1,2 +1,1 @@
-# data-structure-undirected-graph
-Undirected Graph
+# Undirected Graph
